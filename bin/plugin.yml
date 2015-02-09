@@ -1,0 +1,10 @@
+name: RODS
+main: com.minecraftcoder.severselector.Main
+# Note to developers: This next line cannot change, or the automatic versioning system will break.
+version: 1.0
+description: Provides an essential, core set of commands for Bukkit.
+authors: [McCoder, MinecraftDev]
+commands:
+  teleport:
+    description: Teleport to other server.
+    usage: /<command> [server]
